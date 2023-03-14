@@ -16,3 +16,5 @@ well
 
 thanks to my new humans
 new docs
+
+version 2.0
